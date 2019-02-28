@@ -1,0 +1,3 @@
+/home/marat/mag/c_course/cpp_course_problems/problem_3/second_pr/tests/CMakeFiles/rebuild_cache.dir
+/home/marat/mag/c_course/cpp_course_problems/problem_3/second_pr/tests/CMakeFiles/runTests.dir
+/home/marat/mag/c_course/cpp_course_problems/problem_3/second_pr/tests/CMakeFiles/edit_cache.dir
